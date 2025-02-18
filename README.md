@@ -70,3 +70,15 @@
            |
            v
           Fim
+
+
+
+>> Documentação FAST API
+
+https://fastapi.tiangolo.com/
+
+>> Padrão de estrutura de pastas para o uso do FASTAPI
+
+https://medium.com/@amirm.lavasani/how-to-structure-your-fastapi-projects-0219a6600a8f
+
+https://github.com/zhanymkanov/fastapi-best-practices#1-project-structure-consistent--predictable
